@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block title %}Home | SF Admin PRO{% endblock %}
+{% block home_active %}class="active"{% endblock %}
+{% block content %}
+  <h1>Salesforce Admin Trainer — PRO</h1>
+  <div class="grid cols-2">
+    <div class="card">
+      <h3>Get started</h3>
+      <p>Interactive quizzes, colorful live dashboards, milestones, streaks, and category mastery tracking.</p>
+      <a class="btn" href="/quiz">Start Quiz</a>
+    </div>
+    <div class="card">
+      <div class="kpi">
+        <div>
+          <div class="badge">Total Questions</div>
+          <div class="value">{{ total_questions }}</div>
+        </div>
+        <div>
+          <div class="badge">Answered</div>
+          <div class="value">{{ total_answered }}</div>
+        </div>
+        <div>
+          <div class="badge">Accuracy</div>
+          <div class="value">{{ accuracy }}%</div>
+        </div>
+        <div>
+          <div class="badge">Streak</div>
+          <div class="value">{{ streak }}🔥</div>
+        </div>
+      </div>
+      <div style="margin-top:.6rem">
+        <div class="badge">Milestones</div>
+        <div>
+          {% for m in milestones %}
+            <span class="badge" style="border-color: {{ 'transparent' if m.done else '#334155' }}; background: {{ '#16a34a20' if m.done else 'transparent' }};">{{ '✅ ' if m.done else '⬜ '}}{{ m.label }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Exam Topics</h3>
+    <ul class="list">
+      <li>Configuration & Setup</li>
+      <li>Object Manager & Lightning App Builder</li>
+      <li>Sales & Marketing Applications</li>
+      <li>Service & Support Applications</li>
+      <li>Workflow & Process Automation</li>
+      <li>Data & Analytics Management</li>
+      <li>Productivity & Collaboration</li>
+    </ul>
+  </div>
+{% endblock %}

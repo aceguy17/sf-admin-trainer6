@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Feedback | SF Admin PRO{% endblock %}
+{% block content %}
+  <div class="card">
+    <p class="feedback">{% if 'Correct' in feedback %}<span class="correct">{{ feedback }}</span>{% else %}<span class="incorrect">{{ feedback }}</span>{% endif %}</p>
+    <p>Correct answer: <strong>{{ correct_answer }}</strong></p>
+    {% if explanation %}<p>{{ explanation }}</p>{% endif %}
+    <a class="btn" href="/quiz?q={{ next_index }}">Next question</a>
+    <a class="btn secondary" href="/progress" style="margin-left:.5rem">View progress</a>
+  </div>
+{% endblock %}

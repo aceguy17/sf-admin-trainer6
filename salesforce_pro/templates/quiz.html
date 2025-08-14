@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block title %}Quiz | SF Admin PRO{% endblock %}
+{% block quiz_active %}class="active"{% endblock %}
+{% block content %}
+  <h2>Quiz</h2>
+  <div class="card">
+    <div class="badge">Question {{ question_number }} of {{ total_questions }}</div>
+    <div class="progressbar" aria-label="quiz progress">
+      <div class="bar" style="width: {{ (question_number/total_questions)*100 }}%"></div>
+    </div>
+    <form method="post" action="/quiz" style="margin-top:.8rem">
+      <p><strong>{{ question.question }}</strong></p>
+      <input type="hidden" name="index" value="{{ index }}"/>
+      <div class="options">
+        {% for opt in question.options %}
+          <label class="option">
+            <input type="radio" name="selected_option" value="{{ loop.index0 }}" required>
+            <span>{{ opt }}</span>
+          </label>
+        {% endfor %}
+      </div>
+      <button class="btn" type="submit">Submit</button>
+    </form>
+  </div>
+{% endblock %}

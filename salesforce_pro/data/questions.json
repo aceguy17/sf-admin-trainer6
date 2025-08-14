@@ -1,0 +1,3602 @@
+[
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v21)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v11)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v14)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v3)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v4)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v6)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v19)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v21)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v13)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v4)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v16)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v18)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v20)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v2)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v13)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v22)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v8)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v14)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v13)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v18)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v2)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v12)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages?",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v8)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v13)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v17)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v29)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v12)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v12)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v11)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v6)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v5)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v12)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v6)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v27)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v10)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v12)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v30)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v30)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v15)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v10)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v9)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v3)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v28)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v8)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v5)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v29)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v5)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v2)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v9)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v26)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v14)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v13)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v3)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v12)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v21)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v11)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v8)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v2)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v26)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v24)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v20)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v15)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v22)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v9)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v7)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v7)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v3)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v15)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v18)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v23)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v17)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v13)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v13)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v6)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v17)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v23)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v4)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v6)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation?",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v7)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v20)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v25)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v2)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v4)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v6)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v17)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v10)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v14)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v15)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v22)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v4)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v20)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v11)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object?",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v16)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v4)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v2)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v5)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v16)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v27)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v10)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v5)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v10)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v4)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v28)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v5)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v26)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v10)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v5)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v16)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v10)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v10)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v7)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v18)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v16)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v2)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce?",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v9)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v4)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v3)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v14)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v8)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v6)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v29)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v10)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v5)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v8)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v7)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v7)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v3)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v14)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v8)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v6)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v9)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v9)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v9)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v7)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v21)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v13)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v11)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v18)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v9)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v18)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v9)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions?",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v14)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v4)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v6)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v3)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v2)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v11)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v16)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v13)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v23)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v11)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v19)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v30)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v19)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v16)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v24)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v3)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v6)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v26)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v3)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v6)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v11)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v22)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v2)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v20)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v4)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v14)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v21)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v21)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v7)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v17)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v23)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v28)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v5)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v2)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v7)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets?",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v22)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v16)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v30)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v3)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v15)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v17)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v20)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v14)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v7)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v24)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v10)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v3)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v11)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v10)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v12)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v7)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v8)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v9)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v8)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v5)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses?",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v5)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v19)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v9)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v8)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v8)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v18)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v4)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v17)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v15)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v11)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v19)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v11)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v11)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v10)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v14)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v12)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v4)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v5)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v8)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v6)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v21)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v3)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v20)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects?",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v3)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v22)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v24)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v6)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v12)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v10)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v18)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v17)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v21)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v16)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v14)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v18)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v4)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v8)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v7)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v14)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v11)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v2)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v6)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v12)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale? (v2)",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v20)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics?",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v9)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v15)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v29)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v24)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v15)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals?",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "Which Salesforce feature routes work to agents based on skill sets? (v3)",
+    "options": [
+      "Queues",
+      "Omni-Channel",
+      "Assignment Rules",
+      "Escalation Rules"
+    ],
+    "answer_index": 1,
+    "explanation": "Omni-Channel routes work by skills, priority, and availability."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v15)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v9)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v23)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature can send templated emails at scale?",
+    "options": [
+      "Global Actions",
+      "Email Templates",
+      "Quick Text",
+      "Campaigns"
+    ],
+    "answer_index": 1,
+    "explanation": "Email Templates standardize messaging and merge fields."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v17)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v25)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals?",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v19)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v27)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v17)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers?",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields?",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v7)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Productivity & Collaboration",
+    "question": "Which feature supports collaboration via posts and topics? (v4)",
+    "options": [
+      "Chatter",
+      "Notes",
+      "Tasks",
+      "Events"
+    ],
+    "answer_index": 0,
+    "explanation": "Chatter enables feed-based collaboration."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which object tracks potential revenue through stages? (v15)",
+    "options": [
+      "Case",
+      "Opportunity",
+      "Lead",
+      "Campaign"
+    ],
+    "answer_index": 1,
+    "explanation": "Opportunities represent deals with stages and amounts."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v5)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v12)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v27)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v13)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v8)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v16)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "Which relationship type can roll up summary fields? (v28)",
+    "options": [
+      "Lookup",
+      "Master-Detail",
+      "Many-to-Many (Junction)",
+      "External Lookup"
+    ],
+    "answer_index": 1,
+    "explanation": "Roll-up summaries require Master-Detail relationships."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v2)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v16)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which tool is recommended for most new automation? (v15)",
+    "options": [
+      "Workflow Rules",
+      "Process Builder",
+      "Flow Builder",
+      "Apex Triggers"
+    ],
+    "answer_index": 2,
+    "explanation": "Flow Builder is the strategic automation tool."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v24)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Sales & Marketing Applications",
+    "question": "Which feature is used to track marketing spend and responses? (v2)",
+    "options": [
+      "Campaigns",
+      "Tasks",
+      "Queues",
+      "Forecasts"
+    ],
+    "answer_index": 0,
+    "explanation": "Campaigns manage marketing efforts, members, and ROI."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v18)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v13)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v17)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v23)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v10)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v25)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which tool supports mass data import for standard objects? (v12)",
+    "options": [
+      "Data Import Wizard",
+      "Data Loader",
+      "Reports",
+      "Change Sets"
+    ],
+    "answer_index": 0,
+    "explanation": "Data Import Wizard is UI-based for standard objects."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v15)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v16)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v25)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Data & Analytics Management",
+    "question": "Which report format supports groupings and subtotals? (v19)",
+    "options": [
+      "Tabular",
+      "Summary",
+      "Matrix",
+      "Joined"
+    ],
+    "answer_index": 1,
+    "explanation": "Summary reports group rows and calculate subtotals."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which feature is the baseline container for user permissions? (v19)",
+    "options": [
+      "Roles",
+      "Permission Sets",
+      "Profiles",
+      "Queues"
+    ],
+    "answer_index": 2,
+    "explanation": "Profiles define baseline permissions; permission sets grant extras."
+  },
+  {
+    "category": "Configuration & Setup",
+    "question": "Which setting defines a company's fiscal boundaries in Salesforce? (v13)",
+    "options": [
+      "Business Hours",
+      "Fiscal Year",
+      "Company Information",
+      "Locale"
+    ],
+    "answer_index": 1,
+    "explanation": "The Fiscal Year setting controls the start/end of financial periods."
+  },
+  {
+    "category": "Workflow & Process Automation",
+    "question": "Which feature enforces multi-step business approvals? (v7)",
+    "options": [
+      "Assignment Rules",
+      "Approval Processes",
+      "Queues",
+      "Omni-Channel"
+    ],
+    "answer_index": 1,
+    "explanation": "Approval Processes define submit/approve/reject paths."
+  },
+  {
+    "category": "Object Manager & Lightning App Builder",
+    "question": "What defines the fields and UI for different business processes on the same object? (v9)",
+    "options": [
+      "Compact Layouts",
+      "Record Types",
+      "Apps",
+      "Queues"
+    ],
+    "answer_index": 1,
+    "explanation": "Record types manage business processes, page layouts, and picklists."
+  },
+  {
+    "category": "Service & Support Applications",
+    "question": "What knowledge tool helps provide articles to agents and customers? (v5)",
+    "options": [
+      "Notes",
+      "Chatter",
+      "Salesforce Knowledge",
+      "Tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Salesforce Knowledge stores and publishes articles."
+  }
+]

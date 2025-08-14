@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>{% block title %}SF Admin Trainer PRO{% endblock %}</title>
+    <link rel="stylesheet" href="/static/style.css"/>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="container wrap">
+        <div class="brand"><span class="dot"></span><strong>SF Admin PRO</strong></div>
+        <div class="menu">
+          <a href="/" {% block home_active %}{% endblock %}>Home</a>
+          <a href="/quiz" {% block quiz_active %}{% endblock %}>Quiz</a>
+          <a href="/progress" {% block progress_active %}{% endblock %}>Progress</a>
+          <a href="/download-progress">Export</a>
+        </div>
+      </div>
+    </nav>
+    <main class="container">
+      {% block content %}{% endblock %}
+    </main>
+    <footer class="footer">
+      <div class="container">© 2025 SF Admin Trainer PRO — built for practice and consistency.</div>
+    </footer>
+  </body>
+</html>
